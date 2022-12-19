@@ -1,7 +1,7 @@
 ![image](https://github.com/Yunzez/Yunzez/blob/main/header.png)
 
-- 👋 Hi, I’m Fred, Studentat NYU Tandon. Former student at University of Washington
-- 👀 I’m interested in Full-stack/Software development.
+- Student at NYU Tandon. Former student at University of Washington
+- 👀 I’m interested in Full-stack/Software/Hardware development.
 - 📫 contact: zhao.yunzeabh@gmail.com
 
 [![Freds's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunzez&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
