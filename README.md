@@ -1,7 +1,5 @@
 ![image](https://github.com/Yunzez/Yunzez/blob/main/header.png)
 
-- **Student at NYU Tandon**, majoring in Computer Engenieering. 
-- **University of Washington Alum**, major(Honor) in Geography: Data Science, minor in Informatics.
 - 👀 I’m interested in Full-stack/Software/Hardware development.
 - 📫 contact: zhao.yunzeabh@gmail.com
 
